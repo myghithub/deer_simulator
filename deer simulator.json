@@ -1,161 +1,162 @@
 {
   "pc": "com.kangriez.newdeergamesimulator2021",
-  "kang_zayvius": [      
+  "kang_zayvius": [ 
+    
      {
       "id": "1",
-      "tittle": "Guide 1",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/1.html",
-      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTifm_mYNT3_30dOR-no48rLyxrtLbpDGSHxGYKQnqaKbbFtV9m&s"
+      "tittle": "The Crazy world 6",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/z1.html",
+      "images": "https://i.ytimg.com/vi/md_2BtCduls/maxresdefault.jpg"
      },
-    {
+     {
       "id": "2",
-      "tittle": "Guide 2",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/2.html",
-      "images": "https://ksr-ugc.imgix.net/assets/024/327/664/91385ec884cc6fe19d8cecc96e0e5bce_original.png?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1551936250&auto=format&frame=1&q=92&s=3dfadbc618815329509a386d9a901398"
+      "tittle": "The Crazy world 5",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/z2.html",
+      "images": "https://cdn.vox-cdn.com/thumbor/jQlnLXc42gb_ZfZHJFLQguSv61I=/0x0:3342x1826/1200x800/filters:focal(1404x646:1938x1180)/cdn.vox-cdn.com/uploads/chorus_image/image/66146995/deer2.0.jpg"
      },
-    {
+     {
       "id": "3",
-      "tittle": "Guide 3",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/3.html",
-      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp32topTNk0Tsz41KmjYWfJJNO_-lM3D9z3ppGKDiKG70S2Rc&s"
+      "tittle": "The Crazy world 4",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/z3.html",
+      "images": "https://image.winudf.com/v2/image1/Y29tLmJpZ2dhbWVzLmRlZXBzaW11bGF0b3Jfc2NyZWVuXzBfMTU4Nzk2NDk2Ml8wNjU/screen-0.jpg?fakeurl=1&type=.jpg"
      },
-    {
+     {
       "id": "4",
-      "tittle": "Guide 4",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/4.html",
-      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSht_lMdVIOvBvse6OAZhKLbk3JW660dTAwfYLakh3r-1-wNILv&s"
+      "tittle": "The Crazy world 3",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/z4.html",
+      "images": "https://image.winudf.com/v2/image1/Y29tLmRlZXJzaW11bGF0b3IuZGVlZWVyLnNpbXVsYXRvci5yZWFsLnN0aWNrbWFuLnJvcGUuaGVyby5jcmltZS5jaXR5LmdhbmdzdGVyLmZyZWUuZ2FtZS5maXJlLmJhdHRsZS5yb3lhbGUuY2FsbC5nYW1lcy5kdXR5X3NjcmVlbl83XzE1ODY3ODgwMDdfMDMz/screen-7.jpg?fakeurl=1&type=.jpg"
      },
-    {
+     {
       "id": "5",
-      "tittle": "Guide 5",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/5.html",
-      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2hoBN8JCecHFZgIrrHlNo4KNv_41TubHwwRENpIxGb-2GI0&s"
+      "tittle": "The Crazy world 2",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/z5.html",
+      "images": "https://i.ytimg.com/vi/fV-QXDqbbpo/maxresdefault.jpg"
      },
-    {
+     {
       "id": "6",
-      "tittle": "Guide 6",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/6.html",
-      "images": "https://image.winudf.com/v2/image1/YXBwLmJlc2lkZXJ1bm5lcnMuZGVlcl9zY3JlZW5fNV8xNTg2MDQ5NzUzXzA1Mg/screen-5.jpg?fakeurl=1&type=.jpg"
+      "tittle": "The Crazy world 1",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/z6.html",
+      "images": "https://lh3.googleusercontent.com/9PBXc_oqtlRc-Gjk-YvnEk1zdFPuC3JmyQX6c0XCv5GPzZXRSrzYXEvNY5vcMm5n9Xk"
      },
     {
       "id": "7",
-      "tittle": "Guide 7",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/7.html",
-      "images": "https://i.ytimg.com/vi/PBrJJTVhWXM/maxresdefault.jpg"
-     },
-    {
-      "id": "8",
-      "tittle": "Fast Guide 1",
+      "tittle": "Fast Guide 13",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f1.html",
       "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh3sQoEtvr5MUhPXRT6W_fJ1sJVc6-dxaEzvV2QNOoc4HOLGZv&s"
      },
     {
-      "id": "9",
-      "tittle": "Fast Guide 2",
+      "id": "8",
+      "tittle": "Fast Guide 12",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f2.html",
       "images": "https://i.ytimg.com/vi/8JQqEzbU3MU/maxresdefault.jpg"
      },
     {
-      "id": "10",
-      "tittle": "Fast Guide 3",
+      "id": "9",
+      "tittle": "Fast Guide 11",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f3.html",
       "images": "https://www.game-debate.com/pic.php?g_id=36910&game=DEEEER%20Simulator:%20Your%20Average%20Everyday%20Deer%20Game"
      },
      {
-      "id": "11",
-      "tittle": "Fast Guide 4",
+      "id": "10",
+      "tittle": "Fast Guide 10",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f4.html",
       "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2hoBN8JCecHFZgIrrHlNo4KNv_41TubHwwRENpIxGb-2GI0&s"
      },
      {
-      "id": "12",
-      "tittle": "Fast Guide 5",
+      "id": "11",
+      "tittle": "Fast Guide 9",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f5.html",
       "images": "https://image.winudf.com/v2/image1/Y29tLmNpdHkuZGVlci5zaW11bGF0b3IuZ2FtZV9zY3JlZW5fMV8xNjA0OTczNTA1XzA5Nw/screen-1.jpg?fakeurl=1&type=.jpg"
      },
      {
-      "id": "13",
-      "tittle": "Fast Guide 6",
+      "id": "12",
+      "tittle": "Fast Guide 8",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f6.html",
       "images": "https://i.ytimg.com/vi/fx1fhrEJ0Qs/maxresdefault.jpg"
      },
      {
-      "id": "14",
+      "id": "13",
       "tittle": "Fast Guide 7",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f7.html",
       "images": "https://thegeekwave.com/wp-content/uploads/2020/03/baton.png"
      },
      {
-      "id": "15",
-      "tittle": "Fast Guide 8",
+      "id": "14",
+      "tittle": "Fast Guide 6",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f8.html",
       "images": "https://lh3.googleusercontent.com/8Nbyhxn_TaYXKnc3qCkAWAAG4B9JR1sdknyMzzhPMv5iiok4Xf0CT8yTWvjFoJko0A=h250-rw"
      },
      {
-      "id": "16",
-      "tittle": "Fast Guide 9",
+      "id": "15",
+      "tittle": "Fast Guide 5",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f9.html",
       "images": "https://lh3.googleusercontent.com/B8Wk7BMngrQOvu-jNrSf0kNzFKI4FQ4oAmWSvufPV24D0yxGRjIBg4LJVxC--PAV7YE"
      },
      {
-      "id": "17",
-      "tittle": "Fast Guide 10",
+      "id": "16",
+      "tittle": "Fast Guide 4",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f10.html",
       "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG5d1_IxFVmhboelAPfPX5GnawOk0NTvsuASg0qHcixXKL5Aba&s"
      },
      {
-      "id": "18",
-      "tittle": "Fast Guide 11",
+      "id": "17",
+      "tittle": "Fast Guide 3",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f11.html",
       "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6j_z3fEcJhmkxtNtGxsizIOXQZvjgyHlnbT4-JmpOOF8cC43-&s"
      },
      {
-      "id": "19",
-      "tittle": "Fast Guide 12",
+      "id": "18",
+      "tittle": "Fast Guide 2",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f12.html",
       "images": "https://i.ytimg.com/vi/I-NSVOcvDlA/maxresdefault.jpg"
      },
      {
-      "id": "20",
-      "tittle": "Fast Guide 13",
+      "id": "19",
+      "tittle": "Fast Guide 1",
       "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/f13.html",
       "images": "https://5play.ru/uploads/posts/2020-10/1603358653_2.webp"
      },
-     {
+    {
+      "id": "20",
+      "tittle": "Guide 7",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/1.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTifm_mYNT3_30dOR-no48rLyxrtLbpDGSHxGYKQnqaKbbFtV9m&s"
+     },
+    {
       "id": "21",
-      "tittle": "The Crazy world 1",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/z1.html",
-      "images": "https://i.ytimg.com/vi/md_2BtCduls/maxresdefault.jpg"
+      "tittle": "Guide 6",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/2.html",
+      "images": "https://ksr-ugc.imgix.net/assets/024/327/664/91385ec884cc6fe19d8cecc96e0e5bce_original.png?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1551936250&auto=format&frame=1&q=92&s=3dfadbc618815329509a386d9a901398"
      },
-     {
+    {
       "id": "22",
-      "tittle": "The Crazy world 2",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/z2.html",
-      "images": "https://cdn.vox-cdn.com/thumbor/jQlnLXc42gb_ZfZHJFLQguSv61I=/0x0:3342x1826/1200x800/filters:focal(1404x646:1938x1180)/cdn.vox-cdn.com/uploads/chorus_image/image/66146995/deer2.0.jpg"
+      "tittle": "Guide 5",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/3.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp32topTNk0Tsz41KmjYWfJJNO_-lM3D9z3ppGKDiKG70S2Rc&s"
      },
-     {
+    {
       "id": "23",
-      "tittle": "The Crazy world 3",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/z3.html",
-      "images": "https://image.winudf.com/v2/image1/Y29tLmJpZ2dhbWVzLmRlZXBzaW11bGF0b3Jfc2NyZWVuXzBfMTU4Nzk2NDk2Ml8wNjU/screen-0.jpg?fakeurl=1&type=.jpg"
+      "tittle": "Guide 4",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/4.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSht_lMdVIOvBvse6OAZhKLbk3JW660dTAwfYLakh3r-1-wNILv&s"
      },
-     {
+    {
       "id": "24",
-      "tittle": "The Crazy world 4",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/z4.html",
-      "images": "https://image.winudf.com/v2/image1/Y29tLmRlZXJzaW11bGF0b3IuZGVlZWVyLnNpbXVsYXRvci5yZWFsLnN0aWNrbWFuLnJvcGUuaGVyby5jcmltZS5jaXR5LmdhbmdzdGVyLmZyZWUuZ2FtZS5maXJlLmJhdHRsZS5yb3lhbGUuY2FsbC5nYW1lcy5kdXR5X3NjcmVlbl83XzE1ODY3ODgwMDdfMDMz/screen-7.jpg?fakeurl=1&type=.jpg"
+      "tittle": "Guide 3",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/5.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2hoBN8JCecHFZgIrrHlNo4KNv_41TubHwwRENpIxGb-2GI0&s"
      },
-     {
+    {
       "id": "25",
-      "tittle": "The Crazy world 5",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/z5.html",
-      "images": "https://i.ytimg.com/vi/fV-QXDqbbpo/maxresdefault.jpg"
+      "tittle": "Guide 2",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/6.html",
+      "images": "https://image.winudf.com/v2/image1/YXBwLmJlc2lkZXJ1bm5lcnMuZGVlcl9zY3JlZW5fNV8xNTg2MDQ5NzUzXzA1Mg/screen-5.jpg?fakeurl=1&type=.jpg"
      },
-     {
+    {
       "id": "26",
-      "tittle": "The Crazy world 6",
-      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/z6.html",
-      "images": "https://lh3.googleusercontent.com/9PBXc_oqtlRc-Gjk-YvnEk1zdFPuC3JmyQX6c0XCv5GPzZXRSrzYXEvNY5vcMm5n9Xk"
-     }
+      "tittle": "Guide 1",
+      "link_html": "https://raw.githubusercontent.com/myghithub/deer_simulator/main/7.html",
+      "images": "https://i.ytimg.com/vi/PBrJJTVhWXM/maxresdefault.jpg"
+     },
   ]
 }
